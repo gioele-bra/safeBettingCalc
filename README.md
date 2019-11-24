@@ -1,3 +1,4 @@
+<h1>Safe Betting Calculator</h1>
 <h3>A tool permits to bet safely</h3>
 
 <p>
